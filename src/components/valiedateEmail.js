@@ -1,4 +1,4 @@
- const validateEmail = (email) => {
+ const ValidateEmail = (email) => {
   return String(email)
     .toLowerCase()
     .match(
@@ -6,4 +6,4 @@
     );
 };
 
-export default validateEmail;
+export default ValidateEmail;

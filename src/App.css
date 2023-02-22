@@ -1,14 +1,21 @@
+
+
 .App {
   display: flex;
   flex: 1;
   height: 100vh;
   justify-content: center;
   align-items: center;
+  margin: 0;
 }
 
 h2{
   text-align: center;
   font-size: 2rem;
+}
+
+.reg {
+  background-color: whitesmoke;
 }
 
 fieldset {
